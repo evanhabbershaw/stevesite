@@ -10,7 +10,7 @@ published: true
 ## About
 
 ### Short Biography
-Some stuff...
+Some stuff... this section is not changed online...why not?
 
 ### Research
 I work in the intersection of numerical analysis, partial differential equations, and soft matter physics. I build models to study heat, mass, and current flow and the formation of interfaces in complex fluids and materials, and I design efficient numerical methods to get approximate solutions.
